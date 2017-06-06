@@ -1,0 +1,6 @@
+c:\users\danieladmin\documents\visual studio 2015\Projects\SigmaSevenTest\SigmaSevenTest\bin\Debug\SigmaSevenTest.exe.config
+c:\users\danieladmin\documents\visual studio 2015\Projects\SigmaSevenTest\SigmaSevenTest\bin\Debug\SigmaSevenTest.exe
+c:\users\danieladmin\documents\visual studio 2015\Projects\SigmaSevenTest\SigmaSevenTest\bin\Debug\SigmaSevenTest.pdb
+c:\users\danieladmin\documents\visual studio 2015\Projects\SigmaSevenTest\SigmaSevenTest\obj\Debug\SigmaSevenTest.csprojResolveAssemblyReference.cache
+c:\users\danieladmin\documents\visual studio 2015\Projects\SigmaSevenTest\SigmaSevenTest\obj\Debug\SigmaSevenTest.exe
+c:\users\danieladmin\documents\visual studio 2015\Projects\SigmaSevenTest\SigmaSevenTest\obj\Debug\SigmaSevenTest.pdb
